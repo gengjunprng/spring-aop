@@ -11,5 +11,6 @@ public class Test {
         IndexDaoImpl dao= (IndexDaoImpl) ac.getBean("dao");
         dao.query();
         System.out.println("hello git");
+        System.out.println("hello git2");
     }
 }
